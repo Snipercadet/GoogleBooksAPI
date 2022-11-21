@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "G9uIpEBA0gVo+Y8FkVMfSnoDEjbQYwM2VsdUfxBwRwo=",
+  "Source": "GoogleBooksAPI",
+  "BasePath": "_content/GoogleBooksAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
